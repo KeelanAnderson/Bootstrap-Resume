@@ -407,3 +407,9 @@ div#map {
         max-width: 50%;
     }
 }
+
+/* -------------------------------------------- google maps */
+
+div#map {
+    min-height: 360px;
+}
